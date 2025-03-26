@@ -25,6 +25,10 @@ railway.css - Stylesheet that defines the layout and styling.
 
 railwaylogo.png - Indian Railways logo.
 
+platform.png - Banner image used in the design.
+
+trainview.png - Banner image used in the design.
+
 railwaybanner.png - Banner image used in the design.
 
 railwaybackground.png - Background image for the website.
