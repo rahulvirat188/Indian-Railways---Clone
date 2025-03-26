@@ -6,12 +6,16 @@ This project is a fully responsive clone of the Indian Railways website homepage
 
 # Features
 Fully responsive design for desktop, tablet, and mobile devices.
+
 Well-structured HTML and CSS for easy customization.
+
 Includes images and banners similar to the official website.
+
 Static webpage without JavaScript functionality.
 
 # Technologies Used
 HTML
+
 CSS
 
 # File Structure 
