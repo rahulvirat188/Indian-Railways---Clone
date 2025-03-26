@@ -16,12 +16,19 @@ CSS
 
 # File Structure 
 railway.html - Main HTML file containing the structure of the page.
+
 railway.css - Stylesheet that defines the layout and styling.
+
 railwaylogo.png - Indian Railways logo.
+
 railwaybanner.png - Banner image used in the design.
+
 railwaybackground.png - Background image for the website.
+
 pnrimage.png - Image used for PNR status section.
+
 trainarrivaltime.png - Image representing train arrival timings.
+
 trainbooking.png - Image used for ticket booking section.
 
 
